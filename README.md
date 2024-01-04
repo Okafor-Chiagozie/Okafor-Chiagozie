@@ -1,5 +1,6 @@
-### Hi there, I'm Chiagozie Okafor 👋
-**A professional Laravel and PHP developer** `` 
+## Hi 👋, I'm Chiagozie Okafor
+
+**A professional Laravel and PHP developer** `🔥` 
 
 Here are some ideas to get you started:
 
