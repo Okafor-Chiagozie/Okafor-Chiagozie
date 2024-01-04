@@ -11,3 +11,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: "I forget to eat most times when working on a project 😅"
 
+### Language and Tools:
+
+
