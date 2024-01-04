@@ -1,7 +1,5 @@
-### Hi there 👋
-
-
-**Okafor-Chiagozie/Okafor-Chiagozie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Chiagozie Okafor 👋
+**A professional Laravel and PHP developer** `` 
 
 Here are some ideas to get you started:
 
