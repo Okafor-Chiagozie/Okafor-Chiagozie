@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Chiagozie Okafor
 
-### A professional Laravel and PHP developer `🔥` 
+### A professional Laravel and PHP developer 🔥
 
 - 🔭 I’m currently working on `Bubble`
 - 🌱 I’m currently learning Django
