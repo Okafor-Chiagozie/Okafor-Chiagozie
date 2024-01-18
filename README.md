@@ -1,4 +1,4 @@
-<centre># Hi 👋, I'm Chiagozie Okafor</centre>
+# Hi 👋, I'm Chiagozie Okafor
 ### A professional Laravel and PHP developer 🔥  
 <br>
 🔭 I’m currently working on Bubble <br>
