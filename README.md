@@ -1,5 +1,5 @@
 # Hi 👋, I'm Chiagozie Okafor
-### A professional Laravel and PHP developer 🔥  
+### A RESULT-DRIVEN Laravel and PHP developer 🔥  
 <br>
 🔭 I’m currently working on Synapse <br>
 🌱 I’m currently learning Django <br>
