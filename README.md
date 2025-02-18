@@ -2,7 +2,7 @@
 ### A RESULT-DRIVEN Laravel and PHP developer 🔥  
 <br>
 🔭 I’m currently working on Synapse <br>
-🌱 I’m currently learning Django <br>
+🌱 I’m currently learning NodeJS <br>
 👯 I’m looking to collaborate on a Laravel Project <br>
 🤔 I’m looking for help with UI/UX<br>💬 Ask me about - Laravel, PHP, MySql, Vue Js, Inertia, JavaScript, HTML, CSS <br>
 📫 How to reach me: collincity111@gmail.com <br>
