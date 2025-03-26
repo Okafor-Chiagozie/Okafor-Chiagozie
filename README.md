@@ -1,10 +1,10 @@
 # Hi 👋, I'm Chiagozie Okafor
-### A RESULT-DRIVEN Laravel and PHP developer 🔥  
+### An EXPERIENCED and RESULT-DRIVEN FullStack Software Engineer 🔥  
 <br>
-🔭 I’m currently working on Synapse <br>
+🔭 I’m currently working on TaskSphere <br>
 🌱 I’m currently learning NodeJS and ExpressJS <br>
 👯 I’m looking to collaborate on a Laravel Project <br>
-🤔 I’m looking for help with UI/UX<br>💬 Ask me about - Laravel, PHP, MySql, Vue Js, Inertia, JavaScript, HTML, CSS <br>
+🤔 I’m looking for help with UI/UX<br>💬 Ask me about - Laravel, PHP, NodeJS, ExpressJS, MySQL, MonogoDB, Postgres, VueJs, ReactJS, JavaScript, Tailwind CSS, API <br>
 📫 How to reach me: collincity111@gmail.com <br>
 😄 Pronouns: He/Him <br>
 ⚡ Fun fact: "I forget to eat most times when working on a project 😅" <br>
