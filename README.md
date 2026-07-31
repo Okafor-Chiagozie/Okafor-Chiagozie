@@ -1,5 +1,5 @@
 # Hi 👋, I'm Chiagozie Okafor
-### An EXPERIENCED and RESULT-DRIVEN FullStack Software Engineer 🔥  
+### I'm a Fullstack Engineer working in Laravel, Vue and React. Right now I'm one of the developers maintaining the CRM that 20+ car rental companies run their operations on, the largest with over 100,000 registered users. 🔥  
 <br>
 🔭 I’m currently working on TaskSphere <br>
 🌱 I’m currently learning Flutter <br>
